@@ -88,3 +88,7 @@ You will also need to set up your own environment variables for Spotify and Tida
 │
 └── requirements.txt       <- The requirements file for reproducing the analysis environment.
 ```
+
+## Architecture
+
+![architecture](./assets/architecture.png)
